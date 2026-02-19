@@ -1,7 +1,7 @@
 Kacper – Junior Developer .Net 🇵🇱
 =
 
-Hi! I’m Kacper, 22, from Poland 👋.
+Hi! I’m Kacper, 22, from Poland(Warsaw) 👋.
 I’ve been learning programming since 2023 💻.
 
 Tech stack:
