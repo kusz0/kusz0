@@ -1,4 +1,18 @@
-## Hi there 👋
+Kacper – Junior Developer .Net 🇵🇱
+=
+
+Hi! I’m Kacper, 22, from Poland 👋.
+I’ve been learning programming since 2023 💻.
+
+Tech stack:
+
+🖥 C# .NET 8+, ASP.NET MVC & Web API, Entity Framework, Swagger
+
+🌐 HTML, CSS, JavaScript, React
+
+🗄 MSSQL, Unity 🎮
+
+Always building, learning, and exploring new tech 🚀.
 
 
 👾PROJECTS👾
