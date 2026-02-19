@@ -16,6 +16,12 @@ Education:
 
 🎓 Engineer in Computer Science, WSB Merito Chorzów (2024-2027)
 
+Languages:
+
+🇵🇱 Polish (native)
+
+🇬🇧 English (fluent)
+
 Always building, learning, and exploring new tech 🚀.
 
 
