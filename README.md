@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**kusz0/kusz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👾PROJECTS👾
+=
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️WPF Projects🖥️
+=
+1.https://github.com/kusz0/Calculator---WPF
+
+
+Frontend
+=
+1.https://github.com/kusz0/will-you-be-my-Valentine-
+2.https://github.com/kusz0/weather-app
+
+🌐WebSites🌐
+=
+1.https://github.com/kusz0/Evimed-website
+2.https://github.com/kusz0/Smakovita-Bistro-Website
+
+👽Unity Games👽
+=
+1.https://github.com/kusz0/Ping-Pong-Game---Unity
+2.https://github.com/kusz0/Zig-Zag---Unity
+3.https://github.com/kusz0/Shooter-fps
+4.https://github.com/kusz0/Ninja-Fruit
