@@ -29,6 +29,8 @@ Always building, learning, and exploring new tech 🚀.
 
 2.https://github.com/kusz0/weather-app
 
+3.https://github.com/kusz0/face-scanner
+
 🌐WebSites🌐
 
 1.https://github.com/kusz0/Evimed-website
