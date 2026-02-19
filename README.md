@@ -14,7 +14,7 @@ Tech stack:
 
 Education:
 
-🎓 B.Sc. in Computer Science, WSB Merito Chorzów (2024–2027)
+🎓 Engineer in Computer Science, WSB Merito Chorzów (2024-2027)
 
 Always building, learning, and exploring new tech 🚀.
 
