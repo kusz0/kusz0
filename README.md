@@ -58,3 +58,5 @@ Always building, learning, and exploring new tech 🚀.
 4.https://github.com/kusz0/Ninja-Fruit
 
 5. https://github.com/kusz0/Ball-Dodge-Obstacles---Unity
+
+6. https://github.com/kusz0/Rocket-Boost---Unity
