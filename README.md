@@ -6,7 +6,7 @@ I’ve been learning programming since 2023 💻.
 
 Tech stack:
 
-🖥 C# .NET 8+, ASP.NET MVC & Web API, Entity Framework, Swagger
+🖥 C# .NET 8+, ASP.NET MVC & Web API, Entity Framework, Swagger, OpenAi
 
 🌐 HTML, CSS, JavaScript, React
 
