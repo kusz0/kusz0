@@ -32,6 +32,7 @@ Always building, learning, and exploring new tech 🚀.
 
 1.https://github.com/kusz0/Calculator---WPF
 
+2.https://github.com/kusz0/Warehouse-Management-System-WPF
 
 🦦Frontend🦦
 
