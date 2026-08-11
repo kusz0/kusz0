@@ -36,6 +36,8 @@ Always building, learning, and exploring new tech 🚀.
 
 3.https://github.com/kusz0/Weather-App-WPF
 
+4.https://github.com/kusz0/Spotify-client---WPF
+
 🦦Frontend🦦
 
 1.https://github.com/kusz0/will-you-be-my-Valentine-
