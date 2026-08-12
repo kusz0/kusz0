@@ -67,3 +67,5 @@ Always building, learning, and exploring new tech 🚀.
 5.https://github.com/kusz0/Ball-Dodge-Obstacles---Unity
 
 6. https://github.com/kusz0/Rocket-Boost---Unity
+
+7. https://github.com/kusz0/Fighter-space-ship-shooter---Unity
