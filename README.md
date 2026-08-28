@@ -38,7 +38,7 @@ Always building, learning, and exploring new tech 🚀.
 
 4.https://github.com/kusz0/Spotify-client---WPF
 
-5. https://github.com/kusz0/List-of-companies-with-ai
+5.https://github.com/kusz0/List-of-companies-with-ai
 
 🦦Frontend🦦
 
@@ -68,6 +68,6 @@ Always building, learning, and exploring new tech 🚀.
 
 5.https://github.com/kusz0/Ball-Dodge-Obstacles---Unity
 
-6. https://github.com/kusz0/Rocket-Boost---Unity
+6.https://github.com/kusz0/Rocket-Boost---Unity
 
-7. https://github.com/kusz0/Fighter-space-ship-shooter---Unity
+7.https://github.com/kusz0/Fighter-space-ship-shooter---Unity
